@@ -23,6 +23,7 @@ This project consists of two parts:
 ```bash
 git clone https://github.com/jayeshberanii/movie-review-system.git
 cd movie-review-system
+```
 
 # Movie Review Application
 
